@@ -10,6 +10,7 @@
 .DS_Store
 .env.local
 /.vscode
+.env
 
 npm-debug.log*
 yarn-debug.log*
